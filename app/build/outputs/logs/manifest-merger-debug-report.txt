@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\e7c507d1d8a5fdd10a61b9f0166e48a0\constraintlayout-2.0.0-beta2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\55ec0860fce8b5af3437312d89095306\PhotoView-2.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c4313063c58febfd3a00ff4330a2a6ff\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2ef383ce826a7ebcdcd0485f8f261614\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275f2075395a4fcee8ec8350f43406d5\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\689f8d0ce54d396b55fd7aa9f7e352e7\room-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c1430393e1fe92fbbd8be08d9bfa05b9\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7ecad7ccc9d41d19b8d74b50bf9f67db\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7deadc535de8324c64f1089dfacad882\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a9483a656496f0650a8dbe3e5af834ed\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ef3ab9e8e0f8552e4e0ed65fa927d9fa\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275c64dd770a7af21ff4a41b39a6db28\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a461f2a1f37bfd1bd13c4d6109b0e15d\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2f6d028aae1b382f446c3957a02982f5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\682dcf6ab5dbf7c267896110104d858e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c43250b289c8cce9d9cfd6cb44fd3a85\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76f208f1931f073f53e5b25d4ee889ec\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\bd37d14e2e2919ccf28ad24617965378\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4d861c99190bf881ec811348af606925\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\017b7aeb6ed456d7f41cdd6650d30ee8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ca0cae9aa2460fc2b3a3ad8d572b8641\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76a7276b5ce57be4f682c91e0722538b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c93867ff04cf8add50740ec8068efc58\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\17d3aa671dbe78daba7ecfb0c6fcc7f3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\48191d388eaea86bd76e6089d1f00019\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\622aa52880298e39726c48fd4507406f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\209a191194c8490b90e165f73b012cd3\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4535329aa325cd7d18d8a2fd7e3ce6a3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d9518804a8107331b90b52df6e84300c\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d91a5851688e999b1b18b5ce83dc0547\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76edc87c1abee81789e49743dbaef954\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a512a16c14a7402f9b83d6ff44cb304e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\0515d20b4211274585d7b9a9953521e7\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b973dfc0edfeb9674a2f27f855462b9e\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\44fde9e7996f7b014e5fd643b814f852\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ac685ae91fa7aaaf95f686e9652ae939\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\9bb586ecc573a9a4a87a3faec6200605\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4ff3c12de9a389f34fb8d29b79865dea\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\18b35acf3b003367e7bbcf235e33f054\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\068d29f925138c57ad3ef47dcaf10f14\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\01c69097d0a30a6f8ee67de822a1b0ee\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\1ab627f5fc40513a85e525bc2b8077d7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:11-61
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\e7c507d1d8a5fdd10a61b9f0166e48a0\constraintlayout-2.0.0-beta2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\e7c507d1d8a5fdd10a61b9f0166e48a0\constraintlayout-2.0.0-beta2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c4313063c58febfd3a00ff4330a2a6ff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c4313063c58febfd3a00ff4330a2a6ff\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c1430393e1fe92fbbd8be08d9bfa05b9\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c1430393e1fe92fbbd8be08d9bfa05b9\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7deadc535de8324c64f1089dfacad882\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7deadc535de8324c64f1089dfacad882\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\209a191194c8490b90e165f73b012cd3\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\209a191194c8490b90e165f73b012cd3\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b973dfc0edfeb9674a2f27f855462b9e\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b973dfc0edfeb9674a2f27f855462b9e\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\e7c507d1d8a5fdd10a61b9f0166e48a0\constraintlayout-2.0.0-beta2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\e7c507d1d8a5fdd10a61b9f0166e48a0\constraintlayout-2.0.0-beta2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\55ec0860fce8b5af3437312d89095306\PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\55ec0860fce8b5af3437312d89095306\PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c4313063c58febfd3a00ff4330a2a6ff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c4313063c58febfd3a00ff4330a2a6ff\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2ef383ce826a7ebcdcd0485f8f261614\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2ef383ce826a7ebcdcd0485f8f261614\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275f2075395a4fcee8ec8350f43406d5\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275f2075395a4fcee8ec8350f43406d5\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\689f8d0ce54d396b55fd7aa9f7e352e7\room-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\689f8d0ce54d396b55fd7aa9f7e352e7\room-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c1430393e1fe92fbbd8be08d9bfa05b9\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c1430393e1fe92fbbd8be08d9bfa05b9\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7ecad7ccc9d41d19b8d74b50bf9f67db\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7ecad7ccc9d41d19b8d74b50bf9f67db\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7deadc535de8324c64f1089dfacad882\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\7deadc535de8324c64f1089dfacad882\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a9483a656496f0650a8dbe3e5af834ed\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a9483a656496f0650a8dbe3e5af834ed\lifecycle-viewmodel-ktx-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ef3ab9e8e0f8552e4e0ed65fa927d9fa\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ef3ab9e8e0f8552e4e0ed65fa927d9fa\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275c64dd770a7af21ff4a41b39a6db28\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\275c64dd770a7af21ff4a41b39a6db28\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a461f2a1f37bfd1bd13c4d6109b0e15d\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a461f2a1f37bfd1bd13c4d6109b0e15d\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2f6d028aae1b382f446c3957a02982f5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\2f6d028aae1b382f446c3957a02982f5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\682dcf6ab5dbf7c267896110104d858e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\682dcf6ab5dbf7c267896110104d858e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c43250b289c8cce9d9cfd6cb44fd3a85\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c43250b289c8cce9d9cfd6cb44fd3a85\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76f208f1931f073f53e5b25d4ee889ec\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76f208f1931f073f53e5b25d4ee889ec\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\bd37d14e2e2919ccf28ad24617965378\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\bd37d14e2e2919ccf28ad24617965378\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4d861c99190bf881ec811348af606925\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4d861c99190bf881ec811348af606925\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\017b7aeb6ed456d7f41cdd6650d30ee8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\017b7aeb6ed456d7f41cdd6650d30ee8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ca0cae9aa2460fc2b3a3ad8d572b8641\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ca0cae9aa2460fc2b3a3ad8d572b8641\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76a7276b5ce57be4f682c91e0722538b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76a7276b5ce57be4f682c91e0722538b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c93867ff04cf8add50740ec8068efc58\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\c93867ff04cf8add50740ec8068efc58\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\17d3aa671dbe78daba7ecfb0c6fcc7f3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\17d3aa671dbe78daba7ecfb0c6fcc7f3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\48191d388eaea86bd76e6089d1f00019\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\48191d388eaea86bd76e6089d1f00019\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\622aa52880298e39726c48fd4507406f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\622aa52880298e39726c48fd4507406f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\3121bc7d70114a3e311b86c4da5c2afe\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\209a191194c8490b90e165f73b012cd3\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\209a191194c8490b90e165f73b012cd3\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4535329aa325cd7d18d8a2fd7e3ce6a3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4535329aa325cd7d18d8a2fd7e3ce6a3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d9518804a8107331b90b52df6e84300c\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d9518804a8107331b90b52df6e84300c\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d91a5851688e999b1b18b5ce83dc0547\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\d91a5851688e999b1b18b5ce83dc0547\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76edc87c1abee81789e49743dbaef954\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\76edc87c1abee81789e49743dbaef954\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a512a16c14a7402f9b83d6ff44cb304e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\a512a16c14a7402f9b83d6ff44cb304e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\0515d20b4211274585d7b9a9953521e7\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\0515d20b4211274585d7b9a9953521e7\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b973dfc0edfeb9674a2f27f855462b9e\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b973dfc0edfeb9674a2f27f855462b9e\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\44fde9e7996f7b014e5fd643b814f852\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\44fde9e7996f7b014e5fd643b814f852\lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ac685ae91fa7aaaf95f686e9652ae939\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\ac685ae91fa7aaaf95f686e9652ae939\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\9bb586ecc573a9a4a87a3faec6200605\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\9bb586ecc573a9a4a87a3faec6200605\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4ff3c12de9a389f34fb8d29b79865dea\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\4ff3c12de9a389f34fb8d29b79865dea\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\18b35acf3b003367e7bbcf235e33f054\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\18b35acf3b003367e7bbcf235e33f054\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\068d29f925138c57ad3ef47dcaf10f14\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\068d29f925138c57ad3ef47dcaf10f14\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\01c69097d0a30a6f8ee67de822a1b0ee\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\01c69097d0a30a6f8ee67de822a1b0ee\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\1ab627f5fc40513a85e525bc2b8077d7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\1ab627f5fc40513a85e525bc2b8077d7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vovan\Desktop\clean-architecture-android-materials\starter\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\989fa114ae176e0ff204334e9dff5af2\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\vovan\.gradle\caches\transforms-2\files-2.1\b9613627a29047880cbc02072e76b77c\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
